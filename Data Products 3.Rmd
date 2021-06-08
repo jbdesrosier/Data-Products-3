@@ -66,3 +66,11 @@ output$mpgPlot <- renderPlot({
                 abline(fit(), col=2)
         })  })
 ```
+
+## Link to Shiny Application, RPubs Presentation, and GitHub Page
+
+**Shiny App:** https://jbdesrosier.shinyapps.io/Data-Products-3/?_ga=2.265656009.793965011.1623156114-99701884.1623156114
+
+**RPubs Slides:** https://rpubs.com/jbdesrosier/778919
+
+**GitHub Repository** https://github.com/jbdesrosier/Data-Products-3
